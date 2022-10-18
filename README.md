@@ -1,2 +1,2 @@
 Team project "printf"
-group assignment
+Printf
